@@ -1,5 +1,3 @@
-hy359-2020-a5
+# A Java servlet front and back-end social app
 
 Web Programming - 2020 - A5
-
-Please describe here the tasks that you have implemented and how!
