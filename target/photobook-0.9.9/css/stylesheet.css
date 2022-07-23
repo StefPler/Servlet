@@ -1,0 +1,55 @@
+.background {
+    background-image: linear-gradient(to right,rgb(42, 12, 71), rgb(89, 54, 170));
+}
+
+.textTheme {
+    color: rgb(228, 85, 228);
+}
+
+.subtitle {
+    color: rgb(214, 157, 252);
+}
+
+.btnColor {
+    background-color: rgb(235, 86, 255);
+}
+
+.locationButtons {
+    background-color: rgb(255, 153, 255);
+}
+
+label {
+    color: rgb(236, 96, 236);
+}
+
+.warning {
+    color: rgb(255, 44, 107);
+}
+
+.success {
+    color: rgb(8, 230, 137);
+}
+
+.imageBorder {
+    border-style: double;
+    border: 2px;
+}
+
+div#mapdiv {height:500px;}
+div#modalMapDiv { height: 400px;}
+/* div#mapdiv {
+    position: absolute;
+              top: 0;
+              right: 0;
+              left: 0;
+              bottom: 0;
+              top: 0;
+              z-index: 0;
+} */
+
+div#ajaxContent {
+
+    height: 40%;
+    width: 100%;
+}
+
